@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 60bfb7b636d9ca14cbce069cee0e2e50
+timeCreated: 1477488478
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Cylinder
+    100004: Cylinder.002
+    100006: Cylinder.003
+    100008: Cylinder.004
+    100010: Cylinder.005
+    100012: Cylinder.006
+    100014: Cylinder.007
+    100016: Cylinder.008
+    100018: //RootNode
+    100020: screwdriver
+    100022: tip
+    100024: trigger
+    400000: Circle
+    400002: Cylinder
+    400004: Cylinder.002
+    400006: Cylinder.003
+    400008: Cylinder.004
+    400010: Cylinder.005
+    400012: Cylinder.006
+    400014: Cylinder.007
+    400016: Cylinder.008
+    400018: //RootNode
+    400020: screwdriver
+    400022: tip
+    400024: trigger
+    2300000: Circle
+    2300002: Cylinder
+    2300004: Cylinder.002
+    2300006: Cylinder.003
+    2300008: Cylinder.004
+    2300010: Cylinder.005
+    2300012: Cylinder.006
+    2300014: Cylinder.007
+    2300016: Cylinder.008
+    2300018: screwdriver
+    2300020: tip
+    2300022: trigger
+    3300000: Circle
+    3300002: Cylinder
+    3300004: Cylinder.002
+    3300006: Cylinder.003
+    3300008: Cylinder.004
+    3300010: Cylinder.005
+    3300012: Cylinder.006
+    3300014: Cylinder.007
+    3300016: Cylinder.008
+    3300018: screwdriver
+    3300020: tip
+    3300022: trigger
+    4300000: Cylinder.008
+    4300002: Cylinder.007
+    4300004: Cylinder.006
+    4300006: Circle
+    4300008: Cylinder.005
+    4300010: Cylinder.004
+    4300012: Cylinder.003
+    4300014: Cylinder.002
+    4300016: Cylinder
+    4300018: trigger
+    4300020: tip
+    4300022: screwdriver
+    7400000: Cylinder.008|Action
+    7400002: Cylinder.008|CircleAction
+    7400004: Cylinder.008|Cylinder.002Action
+    7400006: Cylinder.008|Cylinder.004Action
+    7400008: Cylinder.008|Cylinder.005Action
+    7400010: Cylinder.008|Cylinder.006Action
+    7400012: Cylinder.008|Cylinder.007Action
+    7400014: Cylinder.008|Cylinder.008Action
+    7400016: Cylinder.008|fail
+    7400018: Cylinder.008|rotate_clockwise
+    7400020: Cylinder.008|rotate_counter_clockwise
+    7400022: Cylinder.008|Trigger_push
+    7400024: Cylinder.008|Trigger_release
+    7400026: Cylinder.007|Action
+    7400028: Cylinder.007|CircleAction
+    7400030: Cylinder.007|Cylinder.002Action
+    7400032: Cylinder.007|Cylinder.004Action
+    7400034: Cylinder.007|Cylinder.005Action
+    7400036: Cylinder.007|Cylinder.006Action
+    7400038: Cylinder.007|Cylinder.007Action
+    7400040: Cylinder.007|Cylinder.008Action
+    7400042: Cylinder.007|fail
+    7400044: Cylinder.007|rotate_clockwise
+    7400046: Cylinder.007|rotate_counter_clockwise
+    7400048: Cylinder.007|Trigger_push
+    7400050: Cylinder.007|Trigger_release
+    7400052: Cylinder.006|Action
+    7400054: Cylinder.006|CircleAction
+    7400056: Cylinder.006|Cylinder.002Action
+    7400058: Cylinder.006|Cylinder.004Action
+    7400060: Cylinder.006|Cylinder.005Action
+    7400062: Cylinder.006|Cylinder.006Action
+    7400064: Cylinder.006|Cylinder.007Action
+    7400066: Cylinder.006|Cylinder.008Action
+    7400068: Cylinder.006|fail
+    7400070: Cylinder.006|rotate_clockwise
+    7400072: Cylinder.006|rotate_counter_clockwise
+    7400074: Cylinder.006|Trigger_push
+    7400076: Cylinder.006|Trigger_release
+    7400078: Circle|Action
+    7400080: Circle|CircleAction
+    7400082: Circle|Cylinder.002Action
+    7400084: Circle|Cylinder.004Action
+    7400086: Circle|Cylinder.005Action
+    7400088: Circle|Cylinder.006Action
+    7400090: Circle|Cylinder.007Action
+    7400092: Circle|Cylinder.008Action
+    7400094: Circle|fail
+    7400096: Circle|rotate_clockwise
+    7400098: Circle|rotate_counter_clockwise
+    7400100: Circle|Trigger_push
+    7400102: Circle|Trigger_release
+    7400104: Cylinder.005|Action
+    7400106: Cylinder.005|CircleAction
+    7400108: Cylinder.005|Cylinder.002Action
+    7400110: Cylinder.005|Cylinder.004Action
+    7400112: Cylinder.005|Cylinder.005Action
+    7400114: Cylinder.005|Cylinder.006Action
+    7400116: Cylinder.005|Cylinder.007Action
+    7400118: Cylinder.005|Cylinder.008Action
+    7400120: Cylinder.005|fail
+    7400122: Cylinder.005|rotate_clockwise
+    7400124: Cylinder.005|rotate_counter_clockwise
+    7400126: Cylinder.005|Trigger_push
+    7400128: Cylinder.005|Trigger_release
+    7400130: Cylinder.004|Action
+    7400132: Cylinder.004|CircleAction
+    7400134: Cylinder.004|Cylinder.002Action
+    7400136: Cylinder.004|Cylinder.004Action
+    7400138: Cylinder.004|Cylinder.005Action
+    7400140: Cylinder.004|Cylinder.006Action
+    7400142: Cylinder.004|Cylinder.007Action
+    7400144: Cylinder.004|Cylinder.008Action
+    7400146: Cylinder.004|fail
+    7400148: Cylinder.004|rotate_clockwise
+    7400150: Cylinder.004|rotate_counter_clockwise
+    7400152: Cylinder.004|Trigger_push
+    7400154: Cylinder.004|Trigger_release
+    7400156: Cylinder.003|Action
+    7400158: Cylinder.003|CircleAction
+    7400160: Cylinder.003|Cylinder.002Action
+    7400162: Cylinder.003|Cylinder.004Action
+    7400164: Cylinder.003|Cylinder.005Action
+    7400166: Cylinder.003|Cylinder.006Action
+    7400168: Cylinder.003|Cylinder.007Action
+    7400170: Cylinder.003|Cylinder.008Action
+    7400172: Cylinder.003|fail
+    7400174: Cylinder.003|rotate_clockwise
+    7400176: Cylinder.003|rotate_counter_clockwise
+    7400178: Cylinder.003|Trigger_push
+    7400180: Cylinder.003|Trigger_release
+    7400182: Cylinder.002|Action
+    7400184: Cylinder.002|CircleAction
+    7400186: Cylinder.002|Cylinder.002Action
+    7400188: Cylinder.002|Cylinder.004Action
+    7400190: Cylinder.002|Cylinder.005Action
+    7400192: Cylinder.002|Cylinder.006Action
+    7400194: Cylinder.002|Cylinder.007Action
+    7400196: Cylinder.002|Cylinder.008Action
+    7400198: Cylinder.002|fail
+    7400200: Cylinder.002|rotate_clockwise
+    7400202: Cylinder.002|rotate_counter_clockwise
+    7400204: Cylinder.002|Trigger_push
+    7400206: Cylinder.002|Trigger_release
+    7400208: Cylinder|Action
+    7400210: Cylinder|CircleAction
+    7400212: Cylinder|Cylinder.002Action
+    7400214: Cylinder|Cylinder.004Action
+    7400216: Cylinder|Cylinder.005Action
+    7400218: Cylinder|Cylinder.006Action
+    7400220: Cylinder|Cylinder.007Action
+    7400222: Cylinder|Cylinder.008Action
+    7400224: Cylinder|fail
+    7400226: Cylinder|rotate_clockwise
+    7400228: Cylinder|rotate_counter_clockwise
+    7400230: Cylinder|Trigger_push
+    7400232: Cylinder|Trigger_release
+    7400234: trigger|Action.001
+    7400236: trigger|spin_clockwise
+    7400238: trigger|spin_counter_clockwise
+    7400240: trigger|trigger_pull
+    7400242: Trigger pull
+    7400244: trigger|trigger_release
+    7400246: Trigger release
+    7400248: tip|Action.001
+    7400250: Spin clockwise
+    7400252: Spin counter clockwise
+    7400254: tip|trigger_pull
+    7400256: tip|trigger_pull_correct
+    7400258: tip|trigger_release
+    7400260: tip|trigger_release_correct
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Trigger pull
+      takeName: trigger|trigger_pull_correct
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: screwdriver
+        weight: 1
+      - path: tip
+        weight: 1
+      - path: trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Trigger release
+      takeName: trigger|trigger_release_correct
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: screwdriver
+        weight: 1
+      - path: tip
+        weight: 1
+      - path: trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spin clockwise
+      takeName: tip|spin_clockwise
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: screwdriver
+        weight: 1
+      - path: tip
+        weight: 1
+      - path: trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spin counter clockwise
+      takeName: tip|spin_counter_clockwise
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: screwdriver
+        weight: 1
+      - path: tip
+        weight: 1
+      - path: trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

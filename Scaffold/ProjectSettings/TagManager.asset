@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - excludeTeleport
+  - ExcludeTeleport
+  - TeleportIgnore
+  - Candybar
+  - Nailsbox
+  - Tip
+  - Screwdriver
   layers:
   - Default
   - TransparentFX
