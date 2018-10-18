@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class NextDestinationCheck : MonoBehaviour {
     private GameObject gamemanager;
+    public int wichTask;
 	// Use this for initialization
 	void Start () {
         gamemanager = GameObject.Find("DestinationPOINTER");
@@ -18,7 +19,7 @@ public class NextDestinationCheck : MonoBehaviour {
     {
         if (other.gameObject.tag == "Playerhead")
         {
-            gamemanager.GetComponent<DestinationMark>().tasksCompleted += 1;
+            gamemanager.GetComponent<DestinationMark>().tasksCompleted = wichTask;
             Destroy(other.gameObject);
         }
     }

@@ -22,7 +22,7 @@ public class PlayerHead : MonoBehaviour {
         if(collision.gameObject.tag == "Candybar")
         {
             Destroy(collision.gameObject);
-            gamemanager.GetComponent<DestinationMark>().tasksCompleted += 1;
+            gamemanager.GetComponent<DestinationMark>().tasksCompleted = 2;
 
         }
 
@@ -31,7 +31,7 @@ public class PlayerHead : MonoBehaviour {
     {
         if (other.gameObject.tag == "Nailsbox")
         {
-            gamemanager.GetComponent<DestinationMark>().tasksCompleted += 1;
+            gamemanager.GetComponent<DestinationMark>().tasksCompleted = 4;
             other.gameObject.GetComponent<Rigidbody>().AddForce(transform.up * 20);
         }
         if (other.gameObject.tag == "Tip")
