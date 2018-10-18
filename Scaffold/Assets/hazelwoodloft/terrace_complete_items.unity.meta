@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b354c879af005074a9a54c8b630836ba
+guid: 7ceb3dc3829a4b542ad42d76747b1ac9
 labels:
 - plant
 - bench
@@ -30,4 +30,7 @@ labels:
 - photoreal
 - low-poly
 DefaultImporter:
+  externalObjects: {}
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

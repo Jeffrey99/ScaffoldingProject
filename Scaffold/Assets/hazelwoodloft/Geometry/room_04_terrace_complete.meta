@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 02a05ffd4a76acf4d8461fee8df37aa4
+guid: e20dc84d9c3330c40b46cbe2016dfa46
 labels:
 - plant
 - bench
@@ -31,4 +31,7 @@ labels:
 - low-poly
 folderAsset: yes
 DefaultImporter:
+  externalObjects: {}
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

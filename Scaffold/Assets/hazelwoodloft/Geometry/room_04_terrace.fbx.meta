@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d1a9f8989b0bea14a840a9dd09e5ed31
+guid: 70484524e10313d449ef2e5c717ed3de
 labels:
 - plant
 - bench
@@ -30,7 +30,7 @@ labels:
 - photoreal
 - low-poly
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: base
     100002: base 1
@@ -587,10 +587,37 @@ ModelImporter:
     4300212: room_04_terrace_glass
     4300214: Room4_glass
     9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 365abcc9d3e5f194e9e53ba39cdb83ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room3_R_glasspane_day
+    second: {fileID: 2100000, guid: 2ac136192e3bb334dad00e3cbc8374fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room3_lights
+    second: {fileID: 2100000, guid: 3aef92f159c4dcc4da7128b3da309640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room4_Chrome
+    second: {fileID: 2100000, guid: 4e7e305471720f04daa382a37a49c84c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room4_D
+    second: {fileID: 2100000, guid: 3b40893af93673b4abe6e02955f4400a, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
     materialSearch: 2
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -603,12 +630,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -616,22 +646,30 @@ ModelImporter:
     globalScale: 0.01
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 4
+    normalCalculationMode: 0
   importAnimation: 0
   copyAvatar: 0
   humanDescription:

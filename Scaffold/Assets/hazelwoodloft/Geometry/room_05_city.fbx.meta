@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9981ff89292d9064bac062ac13665fc8
+guid: 4361fcdda11f9cc4a956227e90101286
 labels:
 - plant
 - bench
@@ -2281,37 +2281,37 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: environment
-    second: {fileID: 2100000, guid: 176210493c798294ab089e64d60d0f67, type: 2}
+    second: {fileID: 2100000, guid: 018877ef1d551df4e9300beb159d2222, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: room3_R_glasspane_day
-    second: {fileID: 2100000, guid: 7ead552ce9177f749b939c3e7d5ca63c, type: 2}
+    second: {fileID: 2100000, guid: 2ac136192e3bb334dad00e3cbc8374fc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: room5_Add
-    second: {fileID: 2100000, guid: 70a87acb583155f4c981aae11baa1193, type: 2}
+    second: {fileID: 2100000, guid: 956da578e4e114143b76c49c4175096a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: room5_D
-    second: {fileID: 2100000, guid: 30c2acbb1a3458e429c039adf05b53df, type: 2}
+    second: {fileID: 2100000, guid: 3bf77ed061621084a92eb13ed06da457, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: room5_R
-    second: {fileID: 2100000, guid: 38b9655477edbf94ab1be837086cc01b, type: 2}
+    second: {fileID: 2100000, guid: ef7e24f4149499e4795bd6fe1c00803f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: room5_R_Offices
-    second: {fileID: 2100000, guid: 80b6c08650522e746a8a975c71532569, type: 2}
+    second: {fileID: 2100000, guid: 47dc18d67281bac4582dfa24945340d1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: room5_R_Offices_bars
-    second: {fileID: 2100000, guid: ac2d53037cfc9474cb81f3e090675dba, type: 2}
+    second: {fileID: 2100000, guid: 8a02240cff86599449ff6bc13d10fc7d, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
