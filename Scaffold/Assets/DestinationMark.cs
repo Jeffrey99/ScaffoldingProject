@@ -14,7 +14,8 @@ public class DestinationMark : MonoBehaviour {
 
     void Update()
     {
+        transform.LookAt(destination.transform);
         float distance = Vector3.Distance(destination.transform.position, this.transform.position); ;
-        dist.text = distance.ToString("0") + " meters";
+        dist.text =distance.ToString("0") + " METERS";
     }
 }
