@@ -11218,7 +11218,7 @@ Transform:
   m_GameObject: {fileID: 1670611981}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.01568, y: 0.01568, z: 0.01568}
   m_Children:
   - {fileID: 1926855683}
   m_Father: {fileID: 0}
@@ -11923,7 +11923,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: b920d9752f360a74f9532c50a2e18d6a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b920d9752f360a74f9532c50a2e18d6a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -11960,6 +11960,18 @@ Prefab:
     - target: {fileID: 400000, guid: b920d9752f360a74f9532c50a2e18d6a, type: 3}
       propertyPath: m_RootOrder
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b920d9752f360a74f9532c50a2e18d6a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.01568
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b920d9752f360a74f9532c50a2e18d6a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.01568
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b920d9752f360a74f9532c50a2e18d6a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.01568
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b920d9752f360a74f9532c50a2e18d6a, type: 3}
@@ -12569,7 +12581,6 @@ GameObject:
   - component: {fileID: 1956940649}
   - component: {fileID: 1956940648}
   - component: {fileID: 1956940647}
-  - component: {fileID: 1956940652}
   - component: {fileID: 1956940653}
   - component: {fileID: 1956940651}
   m_Layer: 0
@@ -12613,7 +12624,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1956940645}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -12672,18 +12683,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6eb9faf6205220c4199f93cfc16e74b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &1956940652
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1956940645}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 0.99999994, z: 0.99999994}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &1956940653
 BoxCollider:
   m_ObjectHideFlags: 0
