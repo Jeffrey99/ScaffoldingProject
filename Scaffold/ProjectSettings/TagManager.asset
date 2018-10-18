@@ -11,6 +11,7 @@ TagManager:
   - Nailsbox
   - Tip
   - Screwdriver
+  - Playerhead
   layers:
   - Default
   - TransparentFX

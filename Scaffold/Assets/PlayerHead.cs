@@ -4,14 +4,16 @@ using UnityEngine;
 using UnityEngine.Animations;
 
 public class PlayerHead : MonoBehaviour {
+    private GameObject gamemanager;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    // Use this for initialization
+    void Start () {
+        gamemanager = GameObject.Find("DestinationPOINTER");
+
+    }
+
+    // Update is called once per frame
+    void Update () {
 		
 	}
     public void OnCollisionEnter(Collision collision)
@@ -20,6 +22,8 @@ public class PlayerHead : MonoBehaviour {
         if(collision.gameObject.tag == "Candybar")
         {
             Destroy(collision.gameObject);
+            gamemanager.GetComponent<DestinationMark>().tasksCompleted += 1;
+
         }
 
     }
@@ -27,6 +31,7 @@ public class PlayerHead : MonoBehaviour {
     {
         if (other.gameObject.tag == "Nailsbox")
         {
+            gamemanager.GetComponent<DestinationMark>().tasksCompleted += 1;
             other.gameObject.GetComponent<Rigidbody>().AddForce(transform.up * 20);
         }
         if (other.gameObject.tag == "Tip")
