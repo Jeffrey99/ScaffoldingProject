@@ -20,7 +20,6 @@ public class NextDestinationCheck : MonoBehaviour {
         if (other.gameObject.tag == "Playerhead")
         {
             gamemanager.GetComponent<DestinationMark>().tasksCompleted = wichTask;
-            Destroy(other.gameObject);
         }
     }
 }
