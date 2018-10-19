@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	77978275	Ambient			\Default Work Unit\Ambient	
+	4236861209	Dialog2			\Default Work Unit\Dialog2	
+	4236861210	Dialog1			\Default Work Unit\Dialog1	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	107571564	What is taking you so long	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\What is taking you so long_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\What is taking you so long		187456
+	245363188	ambientsound__construction	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\ambientsound__construction_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\ambientsound__construction		21168192
+	299468451	now hurrry	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\now hurrry_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\now hurrry		65600
+	342176107	Now hurry up and get to work	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\Now hurry up and get to work_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Now hurry up and get to work		255040
+	442462425	Dont let it happen again	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\Dont let it happen again_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dont let it happen again		128064
+	583175463	Finally	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\Finally_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Finally		73792
+	653092160	you are late	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\you are late_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\you are late		94272
+	717000691	Now hurry up	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\Now hurry up_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Now hurry up		108608
+	755143465	There might be a gas leak	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\There might be a gas leak_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\There might be a gas leak		108608
+	825292999	Oye	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\Oye_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Oye		48192
+	841718186	On the 10th floor	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\On the 10th floor_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\On the 10th floor		94272
+	881028668	I am on the 14 th floor	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\I am on the 14 th floor_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\I am on the 14 th floor		121920
+	914084701	Your way up you may attach a no smoking sign	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\Your way up you may attach a no smoking sign_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Your way up you may attach a no smoking sign		271424
+	925401922	Come over here and help me with this piece	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\Come over here and help me with this piece_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Come over here and help me with this piece		173120
+	928994372	You know we start at 7 right	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\You know we start at 7 right_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\You know we start at 7 right		145472
+	1004566344	ambientsound__trafic	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\ambientsound__trafic_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\ambientsound__trafic		2462364
+

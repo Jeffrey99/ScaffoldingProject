@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	77978275	Ambient			\Default Work Unit\Ambient	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	245363188	ambientsound__construction	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\ambientsound__construction_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\ambientsound__construction		21168192
+	1004566344	ambientsound__trafic	E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Mac\SFX\ambientsound__trafic_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\ambientsound__trafic		2462364
+

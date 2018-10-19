@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7D751AAB-6D60-45B4-B9F3-D6FD7C4F0175}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{7D751AAB-6D60-45B4-B9F3-D6FD7C4F0175}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Dialog1" ID="{82AB452A-BC2A-4A09-AE78-440EC6E662FE}">
+					<ChildrenList>
+						<Action Name="" ID="{476026EB-2E22-478C-B59D-03F63D196AE9}" ShortID="346550311">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Oye" ID="{DEF70789-C173-4E9C-81D2-ADEC289BE9A7}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{02BFC0DB-3759-47D1-9EEB-95FE9301B585}" ShortID="419495381">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="you are late" ID="{495622C8-6A4F-4E3F-BE4A-FCBBE904461F}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E24EBB2A-8A47-4E3E-A03B-A6A61ABD81D9}" ShortID="724032125">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="2.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="You know we start at 7 right" ID="{CDCF7C8C-8D17-4292-816C-62BAF2AEB177}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{BF8AEDE7-3595-4DCA-BC23-9F5039CAF9FB}" ShortID="144508697">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Dont let it happen again" ID="{B450036B-8615-405F-822D-16C6E5472124}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{22119D35-548D-4E7F-BB37-B03AD0EA88D2}" ShortID="802652756">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="7"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="I am on the 14 th floor" ID="{31D6BC05-A37C-4DB8-8AE6-9E17D28D2E17}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{7FB9415C-4FD2-4C1B-96CF-52025EC8C4A0}" ShortID="905863773">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="9"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Now hurry up and get to work" ID="{AF7F34FF-E182-4A87-AB4E-7C41CE019282}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AF280119-6884-4DDA-8BD8-67A737A45FB1}" ShortID="681418431">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="11.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Your way up you may attach a no smoking sign" ID="{00F403A1-8744-4AB0-B0AA-BC2CF1E51FEE}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8B3B9873-691C-472B-AAD6-747CAFDB1C26}" ShortID="323555473">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="14.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="On the 10th floor" ID="{551051D2-D584-47A0-B9AB-429EA3CD2C09}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{720530D2-A934-4658-9C0C-2E5ABF8CC60E}" ShortID="265298920">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="15.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="There might be a gas leak" ID="{EBD08974-D3E2-4E7B-8E5C-337AD23C4BA5}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{77A59F17-099B-428D-8C96-803256BD2401}" ShortID="912215878">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="17.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="now hurrry" ID="{899BFD49-60D6-4DAD-8EE5-926D71F055CD}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Dialog2" ID="{B02E647E-6C73-49BC-B4E3-6CE5DFD08E20}">
+					<ChildrenList>
+						<Action Name="" ID="{78859BE5-C305-45FC-A74C-F54E04E61194}" ShortID="218485759">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Finally" ID="{58CA3682-5F8C-4CD2-849A-56B88F5FC8EF}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{0C3DEA5D-702A-4DA4-AE4C-1719C481E426}" ShortID="525134775">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Come over here and help me with this piece" ID="{895B4D3C-D5E4-49D1-9053-73D005BC45A9}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D0038414-A5EF-4929-8B62-DD882B176184}" ShortID="6437910">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="4"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Now hurry up" ID="{835D2C39-91D5-4C9F-B856-06B1C34A03D1}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{9781BB7F-829E-4E5E-AA23-093CCFC04E60}" ShortID="596489447">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="7"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="What is taking you so long" ID="{18D6E6EE-E5C2-49E7-83A6-9B3748E158A9}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambient" ID="{CF263CE4-E26A-4851-BBDB-EB1BBA5B7131}">
+					<ChildrenList>
+						<Action Name="" ID="{EABC13AE-EFD7-4663-B67F-00DC2B43D58B}" ShortID="708105272">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambientsound__construction" ID="{0B0CEADC-E152-4B94-8585-FDD048091A96}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A2CEF2A5-CA04-473C-A807-664CF0A766B5}" ShortID="427621678">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambientsound__trafic" ID="{0F59F68B-6F81-43A7-9731-B7B8EAB5BCB9}" WorkUnitID="{469511A7-2E7A-41B6-8B14-6D9CB79A3442}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

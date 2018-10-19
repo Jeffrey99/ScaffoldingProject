@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c29b0c2cc6b4bc46806f2812579dcb0, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 0508da2888549d4ba223646f7c2c6151
+    m_lastTime: -8586616675413905473
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 94fec20674476e46ba7061805dd072f7
+    m_lastTime: -8586616675414764969
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 05e4d5048048314788d49befcb914892
+    m_lastTime: -8586616675414205302
+    List: []
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: ab1a757d606db445b9f3d6fd7c4f0175
+    m_lastTime: -8586616665637601694
+    List:
+    - name: Dialog1
+      guid: 2a45ab822abc094aae78440ec6e662fe
+      id: 4236861210
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Dialog1
+        ObjectType: 3
+      Path: Default Work Unit\Dialog1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Dialog2
+      guid: 7e642eb0736cbc49b4e36ce5dfd08e20
+      id: 4236861209
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Dialog2
+        ObjectType: 3
+      Path: Default Work Unit\Dialog2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 133dbc2fdf27b3419ae6064661d12a52
+    m_lastTime: -8586616675414914878
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 41ea35244abc324695e4c57ab522a949
+    m_lastTime: -8586616675413985427
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 4ffe0ee8a8bafd469af15fcf38c62977
+    m_lastTime: -8586616675414125353
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 596330a70fea0d438f633b12f52866d2
+    m_lastTime: -8586616675414265269
+    List: []
+  ExpandedItems:
+  - /Scaffold_WwiseProject
+  - /Scaffold_WwiseProject/Events
+  - /Scaffold_WwiseProject/Events/Default Work Unit
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

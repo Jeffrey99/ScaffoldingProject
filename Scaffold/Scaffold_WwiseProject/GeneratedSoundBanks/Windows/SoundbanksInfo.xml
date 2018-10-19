@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\ScaffoldProject\Scaffold\Scaffold_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="77978275" Name="Ambient" ObjectPath="\Events\Default Work Unit\Ambient"/>
+				<Event Id="4236861210" Name="Dialog1" ObjectPath="\Events\Default Work Unit\Dialog1"/>
+				<Event Id="4236861209" Name="Dialog2" ObjectPath="\Events\Default Work Unit\Dialog2"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="107571564" Language="SFX">
+					<ShortName>What is taking you so long.wav</ShortName>
+					<Path>SFX\What is taking you so long_56D34C19.wem</Path>
+				</File>
+				<File Id="245363188" Language="SFX">
+					<ShortName>ambientsound__construction.wav</ShortName>
+					<Path>SFX\ambientsound__construction_8956FC97.wem</Path>
+				</File>
+				<File Id="299468451" Language="SFX">
+					<ShortName>now hurrry.wav</ShortName>
+					<Path>SFX\now hurrry_56D34C19.wem</Path>
+				</File>
+				<File Id="342176107" Language="SFX">
+					<ShortName>Now hurry up and get to work.wav</ShortName>
+					<Path>SFX\Now hurry up and get to work_56D34C19.wem</Path>
+				</File>
+				<File Id="442462425" Language="SFX">
+					<ShortName>Dont let it happen again.wav</ShortName>
+					<Path>SFX\Dont let it happen again_56D34C19.wem</Path>
+				</File>
+				<File Id="583175463" Language="SFX">
+					<ShortName>Finally.wav</ShortName>
+					<Path>SFX\Finally_56D34C19.wem</Path>
+				</File>
+				<File Id="653092160" Language="SFX">
+					<ShortName>you are late.wav</ShortName>
+					<Path>SFX\you are late_56D34C19.wem</Path>
+				</File>
+				<File Id="717000691" Language="SFX">
+					<ShortName>Now hurry up.wav</ShortName>
+					<Path>SFX\Now hurry up_56D34C19.wem</Path>
+				</File>
+				<File Id="755143465" Language="SFX">
+					<ShortName>There might be a gas leak.wav</ShortName>
+					<Path>SFX\There might be a gas leak_56D34C19.wem</Path>
+				</File>
+				<File Id="825292999" Language="SFX">
+					<ShortName>Oye.wav</ShortName>
+					<Path>SFX\Oye_56D34C19.wem</Path>
+				</File>
+				<File Id="841718186" Language="SFX">
+					<ShortName>On the 10th floor.wav</ShortName>
+					<Path>SFX\On the 10th floor_56D34C19.wem</Path>
+				</File>
+				<File Id="881028668" Language="SFX">
+					<ShortName>I am on the 14 th floor.wav</ShortName>
+					<Path>SFX\I am on the 14 th floor_56D34C19.wem</Path>
+				</File>
+				<File Id="914084701" Language="SFX">
+					<ShortName>Your way up you may attach a no smoking sign.wav</ShortName>
+					<Path>SFX\Your way up you may attach a no smoking sign_56D34C19.wem</Path>
+				</File>
+				<File Id="925401922" Language="SFX">
+					<ShortName>Come over here and help me with this piece.wav</ShortName>
+					<Path>SFX\Come over here and help me with this piece_56D34C19.wem</Path>
+				</File>
+				<File Id="928994372" Language="SFX">
+					<ShortName>You know we start at 7 right.wav</ShortName>
+					<Path>SFX\You know we start at 7 right_56D34C19.wem</Path>
+				</File>
+				<File Id="1004566344" Language="SFX">
+					<ShortName>ambientsound__trafic.wav</ShortName>
+					<Path>SFX\ambientsound__trafic_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

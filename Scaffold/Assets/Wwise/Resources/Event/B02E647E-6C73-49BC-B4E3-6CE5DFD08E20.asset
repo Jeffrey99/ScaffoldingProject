@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bf625e942802cd41b184ccddba4e355, type: 3}
+  m_Name: B02E647E-6C73-49BC-B4E3-6CE5DFD08E20
+  m_EditorClassIdentifier: 
+  objectName: Dialog2
+  id: 4236861209
+  guid: B02E647E-6C73-49BC-B4E3-6CE5DFD08E20

@@ -22,7 +22,8 @@ public class PlayerHead : MonoBehaviour {
         if(collision.gameObject.tag == "Candybar")
         {
             Destroy(collision.gameObject);
-            gamemanager.GetComponent<DestinationMark>().tasksCompleted = 2;
+            //gamemanager.GetComponent<DestinationMark>().tasksCompleted = 2;
+            AkSoundEngine.PostEvent("Dialog2", gameObject);
 
         }
 

@@ -8,11 +8,14 @@ public class Game_Manager : MonoBehaviour {
     // Use this for initialization
     void Start () {
         fadeIn();
+        AkSoundEngine.PostEvent("Dialog1", gameObject);
+        AkSoundEngine.PostEvent("Ambient", gameObject);
+
 
     }
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update () {
 		
 	}
 
